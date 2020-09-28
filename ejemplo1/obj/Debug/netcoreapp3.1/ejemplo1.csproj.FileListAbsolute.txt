@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\bin\Debug\netcoreapp3.1\ejemplo1.exe
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\bin\Debug\netcoreapp3.1\ejemplo1.deps.json
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\bin\Debug\netcoreapp3.1\ejemplo1.runtimeconfig.json
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\bin\Debug\netcoreapp3.1\ejemplo1.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\bin\Debug\netcoreapp3.1\ejemplo1.dll
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\bin\Debug\netcoreapp3.1\ejemplo1.pdb
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.AssemblyInfo.cs
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.dll
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.pdb
+C:\Users\ASUS\Documents\A_DESARROLLO DE SOFTWARE\SEMESTRE 3\Lenguaje De Porgramacion\ejemploPOO_1\ejemplo1\obj\Debug\netcoreapp3.1\ejemplo1.genruntimeconfig.cache
